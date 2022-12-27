@@ -3,3 +3,4 @@
 -Es kann immer an eine beliebe Version des Codes zurueckgegangen werden.
 
 # Weaknesses
+- es funktioniert nur bei Text-bassierten Datein gut und nicht bei Bildern oder PDFs oder anderen Dateitypen
