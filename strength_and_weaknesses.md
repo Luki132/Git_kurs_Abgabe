@@ -4,3 +4,4 @@
 
 # Weaknesses
 - es funktioniert nur bei Text-bassierten Datein gut und nicht bei Bildern oder PDFs oder anderen Dateitypen
+- Die Anzeige des Versionsverlaufs von einzelnen Datein ist nicht so gut.
